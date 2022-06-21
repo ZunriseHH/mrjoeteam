@@ -1,0 +1,23 @@
+.home{
+
+  padding: 0px 0 40px;
+  position: relative;
+  width: 100%;
+}
+.home .fondo{
+  position: absolute;
+  padding:0;
+  margin:0; 
+  top: 0;
+  width: 100%;
+  left: 0;
+  z-index: -1;
+}
+
+.home .fondo .img{
+  width: 100%;
+
+  position: absolute;
+  padding:0;
+  margin:0;
+}

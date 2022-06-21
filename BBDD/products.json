@@ -1,0 +1,197 @@
+{
+   "entradas":{
+      "imagen":"https://res.cloudinary.com/zunrise/image/upload/v1655796610/Mr%20Joe/entradas_e2i5ob.jpg",
+      "productos":[
+         {
+            "descripcion":"deliciosa porcion de arroz blanco",
+            "price":1600,
+            "_id":"22dsdad3fda",
+            "title":"porcion de arroz"
+         },
+         {
+            "descripcion":"un apetitoso pincho de pollo asado",
+            "price":4000,
+            "_id":"22dsdad3fdb",
+            "title":"pincho de pollo"
+         },
+         {
+            "descripcion":"porcion de papas delgadas de calidad premium",
+            "price":4000,
+            "_id":"22dsdad3fdc",
+            "title":"papas a la francesa"
+         },
+         {
+            "descripcion":"clasico plato de chorizo 100% de cerdo ahumado",
+            "price":4900,
+            "_id":"22dsdad3fdd",
+            "title":"chorizo"
+         },
+         {
+            "descripcion":"porcion generosa de papas criollas",
+            "price":4700,
+            "_id":"22dsdad3fdf",
+            "title":"papa criolla"
+         },
+         {
+            "descripcion":"divertidas y crocantes laminas de platano verde con suero costeño",
+            "price":4900,
+            "_id":"22dsdad3fdg",
+            "title":"laminas de platano"
+         },
+         {
+            "descripcion":"atrevete! una porcion de anillos de cebolla",
+            "price":5300,
+            "_id":"22dsdad3fdh",
+            "title":"anillos de cebolla apanado"
+         },
+         {
+            "descripcion":"pedazos triangulares de deliciosas tortillas de amiz frito acompañados de una generosa porcion de queso cheddar",
+            "price":9600,
+            "_id":"22dsdad3fdi",
+            "title":"nachos chatarreros"
+         },
+         {
+            "descripcion":"10 huevos de codorniz aompañados de salsa rosada",
+            "price":6300,
+            "_id":"22dsdad3fdj",
+            "title":"huevos de codorniz"
+         },
+         {
+            "descripcion":"clasico plato de chorizo ahumado 100% de cerdo ahumado a la plancha con papas criollas ",
+            "price":7200,
+            "_id":"22dsdad3fdk",
+            "title":"chorizo ahumado con papa criolla"
+         },
+         {
+            "descripcion":"generosa porcion de papas delgadas de calidad premium con trozos de tocineta bañadas con en queso cheddar chedar",
+            "price":8600,
+            "_id":"22dsdad3fdl",
+            "title":"papas queso cheddar y tocineta"
+         },
+         {
+            "descripcion":"crocantes y apanados nuggets de pollo apanados",
+            "price":6400,
+            "_id":"22dsdad3fdm",
+            "title":"nuggets de pollo"
+         }
+      ]
+   },
+   "infantiles":{
+      "imagen":"https://res.cloudinary.com/zunrise/image/upload/v1655796961/Mr%20Joe/Menu_infantil_dkhu3j.jpg",
+      "productos":[
+         {
+            "descripcion":"pincho de pollo apanado con papas a la francesa ",
+            "price":5300,
+            "_id":"22dsdad3faa",
+            "title":"pincho de pollo con papas a la francesa"
+         },
+         {
+            "descripcion":"crocantes y apanados nuggets de pollo servidos sobre lechuga acompañados con salsa de la casa y papas a la francesa",
+            "price":7500,
+            "_id":"22dsdad3fab",
+            "title":"nuggets de pollo con papas a la francesa"
+         },
+         {
+            "descripcion":"cortes en juliana de pechuga de pollo crocantes con salsa y papas a la francesa",
+            "price":8900,
+            "_id":"22dsdad3fac",
+            "title":"tiritas de pollo artesanal con papas a la francesa"
+         }
+      ]
+   },
+   "salchipapas":{
+      "imagen":"https://res.cloudinary.com/zunrise/image/upload/v1655796960/Mr%20Joe/salchipapas_zmsytt.jpg",
+      "productos":[
+         {
+            "descripcion":"salchicha dorada papa a la francesa y salsa rosada ",
+            "price":6400,
+            "_id":"22dsdad3fba",
+            "title":"tradicioinal"
+         },
+         {
+            "descripcion":"salchicha dorada con papas a la francesa queso fundido y salsa",
+            "price":8300,
+            "_id":"22dsdad3fbb",
+            "title":"super"
+         },
+         {
+            "descripcion":"salchicha dorada con papas a la francesa huevos de codorniz tocineta queso fundido y salsa",
+            "price":11800,
+            "_id":"22dsdad3fbc",
+            "title":"mister joe"
+         },
+         {
+            "descripcion":"porcion de papas a la francesa con pollo carne de res y salsa agria",
+            "price":9300,
+            "_id":"22dsdad3fbd",
+            "title":"mixta"
+         }
+      ]
+   },
+   "perros calientes":{
+      "imagen":"https://res.cloudinary.com/zunrise/image/upload/v1655796144/Mr%20Joe/perros_calientes_rjuzxy.png",
+      "productos":[
+         {
+            "descripcion":"Deliciosa Salchicha zenu(delgada) + pan tostado con ajonjoli, mantequilla + huevo de codorniz, papas fosforito, queso doble crema y salsas",
+            "price":6400,
+            "_id":"22dsdad3fba",
+            "title":"tradicional",
+            "combo":9800
+         },
+         {
+            "descripcion":"Deliciosa Salchicha zenu(gruesa) + pan tostado con ajonjoli, mantequilla + huevo de codorniz, papas fosforito, queso doble crema y salsas",
+            "price":8200,
+            "_id":"22dsdad3fba",
+            "title":"americano",
+            "combo":12600
+         },
+         {
+            "descripcion":"Deliciosa Salchicha americana + pan tostado con ajonjoli, mantequilla + huevo de codorniz,tocineta, papas fosforito, dos lonjas de queso doble crema y salsas",
+            "price":10300,
+            "_id":"22dsdad3fba",
+            "title":"mister joe",
+            "combo":14200
+         }
+      ]
+   },
+   "mazorcada":{
+      "imagen":"https://res.cloudinary.com/zunrise/image/upload/v1655796960/Mr%20Joe/mazorcadas_hnrj7n.jpg",
+      "productos":[
+         {
+            "descripcion":"Deliciosa Salchicha zenu(delgada) + pan tostado con ajonjoli, mantequilla + huevo de codorniz, papas fosforito, queso doble crema y salsas",
+            "price":6400,
+            "_id":"22dsdad3fca",
+            "title":"sencilla",
+            "combo":9800
+         },
+         {
+            "descripcion":"Deliciosa Salchicha zenu(gruesa) + pan tostado con ajonjoli, mantequilla + huevo de codorniz, papas fosforito, queso doble crema y salsas",
+            "price":8200,
+            "_id":"22dsdad3fcb",
+            "title":"mister joe",
+            "combo":12600
+         },
+         {
+            "descripcion":"Deliciosa Salchicha americana + pan tostado con ajonjoli, mantequilla + huevo de codorniz,tocineta, papas fosforito, dos lonjas de queso doble crema y salsas",
+            "price":10300,
+            "_id":"22dsdad3fcc",
+            "title":"campesina",
+            "combo":14200
+         },
+         {
+            "descripcion":"Deliciosa Salchicha zenu(gruesa) + pan tostado con ajonjoli, mantequilla + huevo de codorniz, papas fosforito, queso doble crema y salsas",
+            "price":8200,
+            "_id":"22dsdad3fcb",
+            "title":"Ranchera",
+            "combo":12600
+         },
+         {
+            "descripcion":"Deliciosa Salchicha americana + pan tostado con ajonjoli, mantequilla + huevo de codorniz,tocineta, papas fosforito, dos lonjas de queso doble crema y salsas",
+            "price":10300,
+            "_id":"22dsdad3fcc",
+            "title":"mazorcada gerente",
+            "combo":14200
+         }
+      ]
+   }
+}

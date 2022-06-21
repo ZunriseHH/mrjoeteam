@@ -1,0 +1,67 @@
+#menu{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+#menu .container{
+	width: 90%;
+	width: 100%;
+	padding: 1vmin;
+	padding-top: 40px;
+	background-color: white;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: repeat(2, 1fr);
+	grid-gap: 20px;
+}
+#menu .container .producto{
+	width: 100%;
+	margin-bottom: 30px;
+	padding-top: 20px;
+	min-width:200px;
+	transition: transform .2s ease;
+	position: relative;
+	max-width: 500px; 
+}
+
+#menu .container .producto:hover::before{
+	content:"";
+	opacity: .5;
+	transition: opacity .3s ease;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(23,23,23,.9);
+	position: absolute;
+	left: 0;
+	right:0;
+	top: 0;
+}
+#menu .container .producto::after{
+	content:attr(data-title);
+	opacity: 0;
+	transition: opacity .3s ease;
+	font-size: 25px;
+	width: 100%;
+	position: absolute;
+	left: 0;
+	right:0;
+	top: 0;
+	text-align: center;
+	font-weight: 900;
+	color: #E42204;
+	font-family: sans-serif; 
+}
+
+#menu .container .producto:hover::after{
+	opacity: 1
+}
+
+#menu .container .producto:hover{
+	transform: scale(1.03);
+	cursor: pointer;
+}
+#menu .container .producto img{
+	width: 100%;
+	height: 100%
+}

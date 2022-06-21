@@ -1,0 +1,40 @@
+.carrousel{
+	width: 85%;
+	position: relative;
+	max-width: 500px;
+	margin:auto;
+	color: #fff;
+}
+.carrousel .left{
+	position: absolute;
+	font-size: 30px;
+	top:45%;
+	clip-path: polygon(100% 0%,  100% 100%, 45% 100%, 0% 50%, 45% 0%);
+	background-color: #fff;
+	width: 20px;
+	height:30px;
+	left: -5%;
+}
+
+.carrousel .right{
+	position: absolute;
+	top:45%;
+	clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 25% 50%, 0% 0%);
+	background-color: #F92400;
+	width: 20px;
+	height:20px;
+	font-size: 30px;
+	right: -5%;	
+}
+
+.carrousel figure{
+	width: 100%;
+	overflow: hidden;
+	display: flex;
+	justify-content: center;
+}
+
+.carrousel figure img{
+	
+	width: 100%;
+}
